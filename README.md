@@ -194,7 +194,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </table>
 <h1>GitHub Analytics</h1>
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?username=h3nny23&theme=github-dark&hide_border=true"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=h3nny23&theme=github-dark&hide_border=true"/>
 </div>
 <h1> Activity Graph </h1>
 <div align="center">
