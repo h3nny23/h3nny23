@@ -44,7 +44,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
     </td>
     <td width="35%" align="center">
       <!-- Your Profile URL Here You can use the profile picture from your Linkedin -->
-      <img src="https://www.linkedin.com/in/oliverhenshaw">
+      <img src="https://media.licdn.com/dms/image/v2/C4E03AQF_UC2tOirRMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1660401303790?e=1793232000&v=beta&t=_gZKP-GxlZHNWEpL7BmsxSrME_NL-d6Z9L0rioLv6e4">
     </td>
   </tr>
 </table>
@@ -64,14 +64,15 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+  <img alt="databricks" src="https://img.shields.io/badge/%20-databricks-F9F6EE?style=for-the-badge&labelColor=F9F6EE&logo=databricks">
 </p>
 <h2>Large Language Models</h2>
 <p>
   <img alt="ollama" src="https://img.shields.io/badge/%20-Ollama-F9F6EE?style=for-the-badge&labelColor=9F9F9F&logo=ollama">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+  <img alt="huggingface" src="https://img.shields.io/badge/%20-HuggingFace-050F57?style=for-the-badge&labelColor=050f57&logo=huggingface">
+  <img alt="langchain" src="https://img.shields.io/badge/%20-langchain-050F57?style=for-the-badge&labelColor=050f57&logo=langchain">
+  <img alt="langgraph" src="https://img.shields.io/badge/%20-langgraph-050F57?style=for-the-badge&labelColor=050f57&logo=langgraph">
 </p>
 <h2>Retrieval-Augmented Generation</h2>
 <p>
