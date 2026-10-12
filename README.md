@@ -10,16 +10,16 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Large+Language+Models;Retrieval-Augmented+Generation;Building+AI+Applications" />
 </div>
 <div align="center">
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="YourLinkedInProfileHere">
+<!-- <a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" href=""/>
+</a> -->
+<a href="https://www.linkedin.com/in/oliverhenshaw">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YourEmailHere">
+<a href="mailto:oliverhenshaw@msn.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YourGitHubProfileHere">
+<a href="https://github.com/h3nny23">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </div>
@@ -44,7 +44,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
     </td>
     <td width="35%" align="center">
       <!-- Your Profile URL Here You can use the profile picture from your Linkedin -->
-      <img src="Image Address Here">
+      <img src="https://www.linkedin.com/in/oliverhenshaw">
     </td>
   </tr>
 </table>
