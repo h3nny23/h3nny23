@@ -67,8 +67,8 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </p>
 <h2>Large Language Models</h2>
 <p>
+  <img alt="ollama" src="https://img.shields.io/badge/%20-Ollama-F9F6EE?style=for-the-badge&labelColor=9F9F9F&logo=ollama">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
