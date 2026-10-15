@@ -69,9 +69,9 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </p>
 <h2>Large Language Models</h2>
 <p>
+  <img alt="huggingface" src="https://img.shields.io/badge/%20-HuggingFace-050F57?style=for-the-badge&labelColor=050f57&logo=huggingface">
   <img alt="ollama" src="https://img.shields.io/badge/%20-Ollama-F9F6EE?style=for-the-badge&labelColor=9F9F9F&logo=ollama">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-  <img alt="huggingface" src="https://img.shields.io/badge/%20-HuggingFace-050F57?style=for-the-badge&labelColor=050f57&logo=huggingface">
   <img alt="langchain" src="https://img.shields.io/badge/%20-langchain-050F57?style=for-the-badge&labelColor=050f57&logo=langchain">
   <img alt="langgraph" src="https://img.shields.io/badge/%20-langgraph-050F57?style=for-the-badge&labelColor=050f57&logo=langgraph">
 </p>
@@ -173,7 +173,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
     <td>
       <ul>
         <li>LangGraph</li>
-        <li>AI Agents]</li>
+        <li>AI Agents</li>
         <li>Multi-Agent Systems</li>
       </ul>
       </td>
