@@ -131,13 +131,21 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <h1>Featured Projects</h1>
 <table>
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3>AI Resume Analyzer</h3>
       <p>
       Evaluates resumes against job descriptions using NLP and Machine Learning.
       </p>
       <b>Technology</b>
       Python • NLP • Streamlit • Machine Learning
+    </td> -->
+    <td width="50%">
+      <h3>Sports Ball Image Classification</h3>
+      <p>
+      Trains a CNN on multiple types of sport ball images, then evaluations and classifies each image.
+      </p>
+      <b>Technology</b>
+      Python • CNN • MLFlow • Machine Learning
     </td>
     <td width="50%">
       <h3>AI Chatbot with RAG</h3>
