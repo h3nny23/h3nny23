@@ -65,6 +65,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
   <img alt="databricks" src="https://img.shields.io/badge/%20-databricks-F9F6EE?style=for-the-badge&labelColor=F9F6EE&logo=databricks">
+  <img alt="mlflow" src="https://img.shields.io/badge/%20-mlflow-0A0D69?style=for-the-badge&labelColor=0A0D69&logo=mlflow">
 </p>
 <h2>Large Language Models</h2>
 <p>
@@ -131,7 +132,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="50%">
-      <h3>[Project Title 1: e.g., AI Resume Analyzer]</h3>
+      <h3>AI Resume Analyzer</h3>
       <p>
       Evaluates resumes against job descriptions using NLP and Machine Learning.
       </p>
@@ -139,7 +140,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
       Python • NLP • Streamlit • Machine Learning
     </td>
     <td width="50%">
-      <h3>[Project Title 2: e.g., AI Chatbot with RAG]</h3>
+      <h3>AI Chatbot with RAG</h3>
       <p>
       Answers questions using private documents with Retrieval-Augmented Generation.
       </p>
@@ -149,7 +150,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   </tr>
   <tr>
     <td>
-      <h3>[Project Title 3: e.g., Data Analytics Dashboard]</h3>
+      <h3>Data Analytics Dashboard</h3>
       <p>
       Interactive dashboard for exploring datasets and generating insights.
       </p>
@@ -157,7 +158,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
       Pandas • NumPy • Matplotlib • Streamlit
     </td>
     <td>
-      <h3>[Project Title 4: e.g., Sentiment Analysis]</h3>
+      <h3>Sentiment Analysis</h3>
       <p>
       Natural Language Processing application for sentiment classification.
       </p>
@@ -171,23 +172,23 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   <tr>
     <td>
       <ul>
-        <li>[Topic 1, e.g., LangGraph]</li>
-        <li>[Topic 2, e.g., AI Agents]</li>
-        <li>[Topic 3, e.g., Multi-Agent Systems]</li>
+        <li>LangGraph</li>
+        <li>AI Agents]</li>
+        <li>Multi-Agent Systems</li>
       </ul>
       </td>
       <td>
       <ul>
-        <li>[Topic 4, e.g., Hugging Face Transformers]</li>
-        <li>[Topic 5, e.g., LlamaIndex]</li>
-        <li>[Topic 6, e.g., Advanced OpenAI API usage]</li>
+        <li>Hugging Face Transformers</li>
+        <li>LlamaIndex</li>
+        <li>Advanced OpenAI API usage</li>
       </ul>
       </td>
       <td>
       <ul>
-        <li>[Topic 7, e.g., Kubernetes for MLOps]</li>
-        <li>[Topic 8, e.g., Model Deployment Strategies]</li>
-        <li>[Topic 9, e.g., Vector Search Optimization]</li>
+        <li>Kubernetes for MLOps</li>
+        <li>Model Deployment Strategies</li>
+        <li>Vector Search Optimization</li>
       </ul>
     </td>
   </tr>
