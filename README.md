@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Oliver Henshaw!</h1>
+<></>
 
 <h3>AI Engineer • Machine Learning Engineer • Generative AI Developer</h3>
 <p>
